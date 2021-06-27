@@ -1,0 +1,29 @@
+{
+  "name": "cv.gelis.ch",
+  "version": "2.0.0",
+  "description": "CV of Sébastien G.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgelis/cv.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "sgelis <74539800+sgelis@users.noreply.github.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sgelis/cv/issues"
+  },
+  "homepage": "https://github.com/sgelis/cv#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-uglify-es": "^2.0.0",
+    "postcss": "^8.3.5",
+    "postcss-cli": "^8.3.1",
+    "sass": "^1.35.1"
+  }
+}
